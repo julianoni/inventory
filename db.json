@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Julian",
+      "price": "4.99",
+      "type": "Dude",
+      "brand": "Awesome",
+      "id": 1
+    },
+    {
+      "name": "Julian",
+      "price": "3.99",
+      "type": "Cool",
+      "brand": "Awesome",
+      "id": 2
+    },
+    {
+      "name": "Julian",
+      "price": "2.99",
+      "type": "Schweet",
+      "brand": "Awesome",
+      "id": 3
+    }
+  ]
+}
